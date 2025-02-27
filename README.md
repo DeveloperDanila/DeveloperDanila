@@ -1,5 +1,3 @@
  Hi, I’m @DeveloperDanila
-  
-- I'm Danila
-- I'm Developer
-- I'm [ClassicEngineer](https://github.com/ClassicEngineer) 
+ My name is Danila, and profession is Developer.
+ Welcome on my Github page.
